@@ -1925,11 +1925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Work\\001项目\\backfile\\wemew-client\\Zlib.NetCore\\Zlib.NetCore.csproj",
+      "projectUniqueName": "F:\\Work\\003git\\My_Helper\\Zlib.NetCore\\Zlib.NetCore.csproj",
       "projectName": "Zlib.NetCore",
-      "projectPath": "F:\\Work\\001项目\\backfile\\wemew-client\\Zlib.NetCore\\Zlib.NetCore.csproj",
+      "projectPath": "F:\\Work\\003git\\My_Helper\\Zlib.NetCore\\Zlib.NetCore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\Work\\001项目\\backfile\\wemew-client\\Zlib.NetCore\\obj\\",
+      "outputPath": "F:\\Work\\003git\\My_Helper\\Zlib.NetCore\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
